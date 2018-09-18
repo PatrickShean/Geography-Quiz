@@ -1,2 +1,2 @@
 # Geography-Quiz
-A small quiz currently in progress that I made in my spare time
+A small quiz currently work in progress that I made in my spare time
