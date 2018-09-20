@@ -158,7 +158,7 @@ function process(q){
 		if(submitted == sessionStorage.a10){
 			score++;
 	}
-		$('#results').html('<h3> Final Score is: '+score+' out of 10</h3><a href="Europe.html">retake quiz');
+		$('#results').html('<h3> Final Score is: '+score+' out of 10</h3><a href="Russia.html">retake quiz');
 	}
 	return false;
 	}
